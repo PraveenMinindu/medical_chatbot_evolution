@@ -1,0 +1,130 @@
+[
+  {
+    "question": "What is fever?",
+    "answer": "Fever is a temporary increase in body temperature, often happening when the body is responding to an infection or illness."
+  },
+  {
+    "question": "What are common symptoms of fever?",
+    "answer": "Common fever symptoms include feeling warm, chills, sweating, body aches, tiredness, and a temperature above the normal range."
+  },
+  {
+    "question": "Why do people get fever?",
+    "answer": "People may get fever because of infections, inflammation, or the body's immune response to illness."
+  },
+  {
+    "question": "How can I recognize a mild fever?",
+    "answer": "A mild fever usually means the body temperature is slightly above normal and may be accompanied by warmth, tiredness, or chills."
+  },
+  {
+    "question": "What should I know about fever in general?",
+    "answer": "Fever is a symptom rather than a disease. It usually signals that the body is reacting to an infection or another health condition."
+  },
+  {
+    "question": "What is a headache?",
+    "answer": "A headache is pain or discomfort in the head, scalp, or neck area."
+  },
+  {
+    "question": "What causes headache?",
+    "answer": "Headache can be caused by stress, dehydration, fatigue, lack of sleep, or illness."
+  },
+  {
+    "question": "My head hurts",
+    "answer": "Head pain can happen for many reasons such as stress, dehydration, tiredness, or illness. This chatbot can only give general educational information."
+  },
+  {
+    "question": "Why does my head hurt?",
+    "answer": "Headaches may happen because of stress, muscle tension, dehydration, fatigue, or an illness such as a cold."
+  },
+  {
+    "question": "Why do people get headaches?",
+    "answer": "People may get headaches because of stress, dehydration, fatigue, tension, lack of sleep, or illness."
+  },
+  {
+    "question": "What are common headache symptoms?",
+    "answer": "Headaches may feel like pressure, throbbing, aching, or tightness in the head or neck."
+  },
+  {
+    "question": "What is cough?",
+    "answer": "A cough is a reflex that helps clear the throat and airways of mucus, irritants, or foreign particles."
+  },
+  {
+    "question": "Why do people cough?",
+    "answer": "People may cough because of colds, throat irritation, allergies, infections, or mucus in the airways."
+  },
+  {
+    "question": "What are common symptoms related to cough?",
+    "answer": "A cough may occur with throat irritation, mucus, chest discomfort, or a cold."
+  },
+  {
+    "question": "What is dry cough?",
+    "answer": "A dry cough is a cough that does not produce mucus and may be linked to throat irritation or infection."
+  },
+  {
+    "question": "What is wet cough?",
+    "answer": "A wet cough is a cough that brings up mucus or phlegm from the airways."
+  },
+  {
+    "question": "What is a cold?",
+    "answer": "A cold is a common viral illness that often affects the nose and throat."
+  },
+  {
+    "question": "What are common symptoms of a cold?",
+    "answer": "Common cold symptoms include sneezing, runny nose, sore throat, cough, congestion, and feeling tired."
+  },
+  {
+    "question": "Why do people catch a cold?",
+    "answer": "People catch a cold because of viruses that spread through droplets, contact, or contaminated surfaces."
+  },
+  {
+    "question": "What is the difference between cold and fever?",
+    "answer": "A cold is a viral illness with symptoms like sneezing and congestion, while fever is a rise in body temperature that can happen with many illnesses."
+  },
+  {
+    "question": "I have a runny nose and sneezing",
+    "answer": "A runny nose and sneezing are common symptoms of a cold, which is a viral illness affecting the upper respiratory tract."
+  },
+  {
+    "question": "What is dehydration?",
+    "answer": "Dehydration happens when the body loses more fluids than it takes in."
+  },
+  {
+    "question": "What causes dehydration?",
+    "answer": "Dehydration can be caused by not drinking enough fluids, sweating heavily, fever, vomiting, diarrhea, or hot weather."
+  },
+  {
+    "question": "What are common symptoms of dehydration?",
+    "answer": "Common symptoms of dehydration include thirst, dry mouth, tiredness, dizziness, dark urine, and reduced urination."
+  },
+  {
+    "question": "Why is dehydration important?",
+    "answer": "Dehydration matters because the body needs enough fluid to regulate temperature, support circulation, and keep normal body functions working well."
+  },
+  {
+    "question": "I feel dizzy and my mouth is dry",
+    "answer": "Dizziness and a dry mouth can be signs of dehydration, which happens when the body does not have enough fluids."
+  },
+  {
+    "question": "Can fever cause dehydration?",
+    "answer": "Yes, fever can contribute to dehydration because higher body temperature may increase fluid loss."
+  },
+  {
+    "question": "Can a cold cause cough?",
+    "answer": "Yes, a cold can cause coughing because viral irritation and mucus can affect the throat and airways."
+  },
+  {
+    "question": "Can a cold make me cough?",
+    "answer": "Yes, a cold can make you cough because irritation and mucus in the throat or airways can trigger coughing."
+  },
+  {
+    "question": "Can dehydration cause headache?",
+    "answer": "Yes, dehydration can contribute to headaches because the body and brain are sensitive to fluid imbalance."
+  },
+  {
+    "question": "What basic health topics can you explain?",
+    "answer": "I can provide basic educational information about fever, headache, cough, cold, and dehydration."
+  },
+  {
+    "question": "What medical conditions do you cover?",
+    "answer": "This chatbot covers basic educational information on fever, headache, cough, cold, and dehydration."
+  }
+]
