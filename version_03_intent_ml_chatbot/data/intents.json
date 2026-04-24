@@ -1,0 +1,288 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "good evening",
+        "hello there",
+        "hi chatbot",
+        "hey bot",
+        "is anyone there",
+        "greetings",
+        "hi there",
+        "hey there",
+        "good afternoon",
+        "howdy"
+      ],
+      "responses": [
+        "Hello! I am a medical information chatbot. You can ask me about fever, headache, cough, cold, or dehydration.",
+        "Hi! I provide general educational information on common health topics like fever, headache, cough, cold, and dehydration.",
+        "Hey! Ask me a basic health question, and I will share general educational information."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you",
+        "exit",
+        "quit",
+        "talk later",
+        "bye bye",
+        "see you later",
+        "i am leaving",
+        "stop",
+        "take care",
+        "i am done",
+        "that is all",
+        "nothing else"
+      ],
+      "responses": [
+        "Goodbye! Stay healthy.",
+        "Take care. Remember that I only provide general educational information.",
+        "See you later! Stay safe and healthy."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thanks",
+        "thank you",
+        "okay thanks",
+        "thanks a lot",
+        "thank you so much",
+        "appreciate it",
+        "that helps",
+        "great thanks",
+        "many thanks",
+        "thanks chatbot",
+        "thank you for the info",
+        "that was helpful",
+        "good information",
+        "i appreciate that"
+      ],
+      "responses": [
+        "You're welcome. Stay healthy.",
+        "Glad I could help with general information.",
+        "You're welcome! If you want, you can ask about another health topic."
+      ]
+    },
+    {
+      "tag": "bot_identity",
+      "patterns": [
+        "who are you",
+        "what are you",
+        "what can you do",
+        "are you a doctor",
+        "tell me about yourself",
+        "what is your job",
+        "what kind of chatbot are you",
+        "what do you help with",
+        "introduce yourself",
+        "what is this bot",
+        "are you a real doctor",
+        "are you human",
+        "what is your purpose",
+        "what are your capabilities"
+      ],
+      "responses": [
+        "I am an intent-based medical information chatbot. I provide basic educational information, not medical diagnosis or treatment.",
+        "I am a chatbot trained to recognize health-related intents and share general educational information on a few common topics.",
+        "I am not a doctor. I can help with basic educational information about fever, headache, cough, cold, and dehydration."
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "help",
+        "what can i ask",
+        "what topics do you cover",
+        "how do i use this chatbot",
+        "can you help me",
+        "what do you know",
+        "show topics",
+        "what health topics are supported",
+        "how can you help",
+        "give me help",
+        "what should i ask",
+        "what information do you have",
+        "guide me",
+        "show me what you can do"
+      ],
+      "responses": [
+        "You can ask me general educational questions about fever, headache, cough, cold, and dehydration.",
+        "Try questions like 'what is fever', 'tell me about headache', or 'what are signs of dehydration'.",
+        "I support basic health information topics and simple conversation intents like greetings, help, and thanks."
+      ]
+    },
+    {
+      "tag": "fever_info",
+      "patterns": [
+        "what is fever",
+        "tell me about fever",
+        "i have fever",
+        "fever symptoms",
+        "what causes fever",
+        "why do people get fever",
+        "my body temperature is high",
+        "explain fever",
+        "signs of fever",
+        "is fever a symptom",
+        "i have a high temperature",
+        "my temperature is high",
+        "temperature is high",
+        "i feel very hot",
+        "my body feels hot",
+        "i have high fever",
+        "fever information",
+        "what happens during fever"
+      ],
+      "responses": [
+        "Fever is a temporary rise in body temperature, often linked to infection or inflammation.",
+        "A fever usually means the body is responding to an illness or infection. It is a symptom, not a disease by itself.",
+        "Common signs of fever can include feeling warm, sweating, chills, and a higher-than-normal body temperature."
+      ]
+    },
+    {
+      "tag": "headache_info",
+      "patterns": [
+        "what is headache",
+        "my head hurts",
+        "tell me about headache",
+        "causes of headache",
+        "i have a headache",
+        "why does my head hurt",
+        "headache meaning",
+        "what causes head pain",
+        "symptoms of headache",
+        "explain headaches",
+        "i have head pain",
+        "my head is pounding",
+        "head is throbbing",
+        "i have a migraine",
+        "what is migraine",
+        "headache information",
+        "head hurts badly",
+        "my head aches"
+      ],
+      "responses": [
+        "A headache is pain or discomfort in the head. It can happen for many reasons such as stress, dehydration, fatigue, or illness.",
+        "Headaches can be linked to lack of sleep, stress, dehydration, illness, or eye strain.",
+        "General headache symptoms include pressure, aching, or throbbing pain in the head or around the forehead."
+      ]
+    },
+    {
+      "tag": "cough_info",
+      "patterns": [
+        "what is cough",
+        "i am coughing",
+        "tell me about cough",
+        "cough meaning",
+        "why am i coughing",
+        "causes of cough",
+        "dry cough information",
+        "what causes coughing",
+        "symptoms of cough",
+        "explain cough",
+        "i have been coughing for days",
+        "i keep coughing",
+        "i cannot stop coughing",
+        "coughing non stop",
+        "i have a bad cough",
+        "i have a dry cough",
+        "my throat makes me cough",
+        "coughing all the time"
+      ],
+      "responses": [
+        "A cough is a reflex that helps clear the throat or airways of mucus, irritation, or foreign particles.",
+        "Coughing can happen with colds, throat irritation, allergies, or other illnesses.",
+        "A cough may be dry or produce mucus depending on the cause."
+      ]
+    },
+    {
+      "tag": "cold_info",
+      "patterns": [
+        "what is cold",
+        "common cold",
+        "i have a cold",
+        "tell me about cold",
+        "cold symptoms",
+        "what causes common cold",
+        "runny nose and cold",
+        "explain common cold",
+        "signs of a cold",
+        "cold meaning",
+        "i think i have a cold",
+        "i caught a cold",
+        "my nose is running",
+        "i am sneezing a lot",
+        "i have a runny nose",
+        "cold and sneezing",
+        "sore throat and cold",
+        "what are cold symptoms"
+      ],
+      "responses": [
+        "The common cold is a viral infection that often affects the nose and throat.",
+        "Common cold symptoms can include a runny nose, sneezing, sore throat, and cough.",
+        "A cold is usually mild, but symptoms can still feel uncomfortable for a few days."
+      ]
+    },
+    {
+      "tag": "dehydration_info",
+      "patterns": [
+        "what is dehydration",
+        "signs of dehydration",
+        "i feel dehydrated",
+        "dehydration meaning",
+        "what causes dehydration",
+        "symptoms of dehydration",
+        "why do people get dehydrated",
+        "explain dehydration",
+        "am i dehydrated",
+        "dry mouth and dehydration",
+        "i am feeling dehydrated",
+        "i feel dizzy and thirsty",
+        "my mouth is very dry",
+        "i am not drinking enough water",
+        "dehydration information",
+        "i feel very thirsty",
+        "low on fluids",
+        "i have not been drinking water"
+      ],
+      "responses": [
+        "Dehydration happens when the body loses more fluids than it takes in.",
+        "Common signs of dehydration include thirst, dry mouth, dark urine, tiredness, and dizziness.",
+        "Dehydration can happen because of sweating, fever, diarrhea, vomiting, or not drinking enough fluids."
+      ]
+    },
+    {
+      "tag": "out_of_scope",
+      "patterns": [
+        "diagnose me",
+        "what medicine should i take",
+        "how to treat cancer",
+        "give me antibiotics",
+        "am i dying",
+        "prescribe medicine for me",
+        "what tablets should i use",
+        "tell me what disease i have",
+        "can you treat me",
+        "what should i do in an emergency",
+        "give me a prescription",
+        "what drug should i use",
+        "tell me my diagnosis",
+        "recommend a medicine"
+      ],
+      "responses": [
+        "I can only provide general educational information. Please consult a qualified healthcare professional.",
+        "I am not able to diagnose conditions or recommend medicines. Please speak with a qualified healthcare professional.",
+        "This question is outside my safe scope. Please contact a qualified healthcare professional for personal medical advice."
+      ]
+    }
+  ]
+}
