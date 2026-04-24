@@ -1,0 +1,182 @@
+[
+  {
+    "source_id": "fever_001",
+    "topic": "fever",
+    "question": "What is fever?",
+    "answer": "Fever is a temporary rise in body temperature above the normal range of around 37 degrees Celsius. It is usually a sign that the body is responding to an infection or illness."
+  },
+  {
+    "source_id": "fever_002",
+    "topic": "fever",
+    "question": "What causes fever?",
+    "answer": "Fever is commonly caused by viral or bacterial infections, inflammation, or the immune system reacting to illness. It is a symptom, not a disease on its own."
+  },
+  {
+    "source_id": "fever_003",
+    "topic": "fever",
+    "question": "What are the symptoms of fever?",
+    "answer": "Common fever symptoms include feeling warm or hot, sweating, chills, tiredness, body aches, and a body temperature above the normal range."
+  },
+  {
+    "source_id": "fever_004",
+    "topic": "fever",
+    "question": "my body feels very hot",
+    "answer": "Feeling very hot can be a sign of fever. Fever is the body raising its temperature as part of the immune response to infection or illness."
+  },
+  {
+    "source_id": "fever_005",
+    "topic": "fever",
+    "question": "I have a high temperature",
+    "answer": "A high body temperature is a classic sign of fever. This often means the body is fighting an infection or responding to an illness."
+  },
+  {
+    "source_id": "fever_006",
+    "topic": "fever",
+    "question": "Is fever dangerous?",
+    "answer": "Most fevers are mild and resolve on their own. Fever is generally the body defending itself. However, this chatbot provides general educational information only. Please consult a healthcare professional for personal medical advice."
+  },
+  {
+    "source_id": "headache_001",
+    "topic": "headache",
+    "question": "What is a headache?",
+    "answer": "A headache is pain or discomfort felt in the head, scalp, or neck. It is one of the most common health complaints and can vary in intensity and location."
+  },
+  {
+    "source_id": "headache_002",
+    "topic": "headache",
+    "question": "What causes headaches?",
+    "answer": "Headaches can be caused by stress, dehydration, lack of sleep, eye strain, tension in the neck and shoulders, or illness such as a cold or fever."
+  },
+  {
+    "source_id": "headache_003",
+    "topic": "headache",
+    "question": "my head hurts badly",
+    "answer": "Head pain can happen for many reasons including stress, dehydration, tension, or illness. This chatbot provides general educational information only. Please consult a healthcare professional if pain is severe or persistent."
+  },
+  {
+    "source_id": "headache_004",
+    "topic": "headache",
+    "question": "What is a migraine?",
+    "answer": "A migraine is a type of headache that tends to be severe and throbbing, often on one side of the head. It may be accompanied by sensitivity to light or nausea."
+  },
+  {
+    "source_id": "headache_005",
+    "topic": "headache",
+    "question": "I have a pounding headache",
+    "answer": "A pounding or throbbing sensation in the head is a common description of a tension headache or migraine. Dehydration and stress are frequent causes."
+  },
+  {
+    "source_id": "headache_006",
+    "topic": "headache",
+    "question": "Can dehydration cause headache?",
+    "answer": "Yes, dehydration is a well-known trigger for headaches. When the body does not have enough fluids, brain tissue can temporarily shrink, causing pain."
+  },
+  {
+    "source_id": "cough_001",
+    "topic": "cough",
+    "question": "What is a cough?",
+    "answer": "A cough is a reflex action that clears the throat and airways of mucus, irritants, or foreign particles. It is one of the most common reasons people seek medical information."
+  },
+  {
+    "source_id": "cough_002",
+    "topic": "cough",
+    "question": "What causes coughing?",
+    "answer": "Coughing can be caused by a cold, throat irritation, allergies, dry air, or infections affecting the airways. It is the body's way of clearing the respiratory tract."
+  },
+  {
+    "source_id": "cough_003",
+    "topic": "cough",
+    "question": "I have been coughing for days",
+    "answer": "Coughing that continues for several days is commonly linked to a cold, throat irritation, or a respiratory infection. This chatbot provides general educational information only."
+  },
+  {
+    "source_id": "cough_004",
+    "topic": "cough",
+    "question": "What is a dry cough?",
+    "answer": "A dry cough does not produce mucus and is often caused by throat irritation, viral infection, or dry air. It can feel tickly or scratchy."
+  },
+  {
+    "source_id": "cough_005",
+    "topic": "cough",
+    "question": "I cannot stop coughing",
+    "answer": "Persistent coughing is often caused by throat irritation, a cold, or an airway infection. The cough reflex is the body's mechanism to clear the respiratory tract."
+  },
+  {
+    "source_id": "cough_006",
+    "topic": "cough",
+    "question": "Can a cold cause cough?",
+    "answer": "Yes, the common cold frequently causes coughing. Viral irritation and mucus in the throat or airways trigger the cough reflex during a cold."
+  },
+  {
+    "source_id": "cold_001",
+    "topic": "cold",
+    "question": "What is the common cold?",
+    "answer": "The common cold is a viral infection that primarily affects the nose and throat. It is one of the most frequent illnesses and is caused by many different viruses."
+  },
+  {
+    "source_id": "cold_002",
+    "topic": "cold",
+    "question": "What are cold symptoms?",
+    "answer": "Common cold symptoms include a runny or blocked nose, sneezing, sore throat, cough, mild headache, and feeling tired. Symptoms usually last a few days."
+  },
+  {
+    "source_id": "cold_003",
+    "topic": "cold",
+    "question": "I think I have a cold",
+    "answer": "A cold is a common viral illness affecting the nose and throat. Typical signs include a runny nose, sneezing, sore throat, and cough."
+  },
+  {
+    "source_id": "cold_004",
+    "topic": "cold",
+    "question": "How does a cold spread?",
+    "answer": "Colds spread through tiny droplets released when an infected person coughs or sneezes, or through touching contaminated surfaces and then touching the face."
+  },
+  {
+    "source_id": "cold_005",
+    "topic": "cold",
+    "question": "my nose is runny and I keep sneezing",
+    "answer": "A runny nose and frequent sneezing are hallmark symptoms of the common cold, which is a viral infection affecting the upper respiratory tract."
+  },
+  {
+    "source_id": "cold_006",
+    "topic": "cold",
+    "question": "What is the difference between cold and flu?",
+    "answer": "A cold is generally milder than flu. Cold symptoms develop gradually and mainly affect the nose and throat. Flu tends to come on suddenly with higher fever, body aches, and more severe tiredness."
+  },
+  {
+    "source_id": "dehydration_001",
+    "topic": "dehydration",
+    "question": "What is dehydration?",
+    "answer": "Dehydration occurs when the body loses more fluids than it takes in, leaving it without enough water to carry out normal functions."
+  },
+  {
+    "source_id": "dehydration_002",
+    "topic": "dehydration",
+    "question": "What causes dehydration?",
+    "answer": "Dehydration can be caused by not drinking enough fluids, excessive sweating, fever, vomiting, diarrhoea, or exposure to hot weather."
+  },
+  {
+    "source_id": "dehydration_003",
+    "topic": "dehydration",
+    "question": "What are symptoms of dehydration?",
+    "answer": "Common symptoms of dehydration include thirst, dry mouth, dark urine, dizziness, tiredness, and reduced urination. Severe dehydration requires medical attention."
+  },
+  {
+    "source_id": "dehydration_004",
+    "topic": "dehydration",
+    "question": "I feel dizzy and my mouth is dry",
+    "answer": "Dizziness and a dry mouth are typical signs of dehydration. This happens when the body does not have sufficient fluids to maintain normal function."
+  },
+  {
+    "source_id": "dehydration_005",
+    "topic": "dehydration",
+    "question": "I have not been drinking enough water",
+    "answer": "Not drinking enough water can lead to dehydration over time. Signs include thirst, dry mouth, tiredness, and reduced urination."
+  },
+  {
+    "source_id": "dehydration_006",
+    "topic": "dehydration",
+    "question": "Can fever lead to dehydration?",
+    "answer": "Yes, fever increases fluid loss through sweating. This can contribute to dehydration if fluids are not replaced. This chatbot provides general educational information only."
+  }
+]
