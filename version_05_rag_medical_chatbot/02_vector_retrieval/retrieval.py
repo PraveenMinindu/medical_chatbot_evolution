@@ -26,7 +26,7 @@ from dataclasses import dataclass, field
 import faiss
 import numpy as np
 
-from .config import (
+from config import (
     DEDUP_SCORE_DELTA,
     KNOWLEDGE_BASE_PATH,
     SIMILARITY_THRESHOLD,
@@ -36,9 +36,9 @@ from .config import (
     FAISS_INDEX_PATH,
     METADATA_PATH,
 )
-from .embeddings import embed_query, embed_texts, load_model
-from .utils import load_knowledge_base
-from .vector_store import build_index, index_exists, load_index, search
+from embeddings import embed_query, embed_texts, load_model
+from utils import load_knowledge_base
+from vector_store import build_index, index_exists, load_index, search
 
 
 @dataclass

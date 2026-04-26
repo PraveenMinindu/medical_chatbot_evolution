@@ -19,9 +19,9 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from .config import KNOWLEDGE_BASE_PATH, SIMILARITY_THRESHOLD
-from .embeddings import embed_query, embed_texts, load_model
-from .utils import load_knowledge_base
+from config import KNOWLEDGE_BASE_PATH, SIMILARITY_THRESHOLD
+from embeddings import embed_query, embed_texts, load_model
+from utils import load_knowledge_base
 
 
 @dataclass

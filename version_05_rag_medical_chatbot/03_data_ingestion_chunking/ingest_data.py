@@ -32,8 +32,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.chunking import Chunk, build_chunks
-from src.config import (
+from chunking import Chunk, build_chunks
+from config import (
     CHUNK_OVERLAP,
     CHUNK_SIZE,
     CHUNKS_PATH,
@@ -43,8 +43,8 @@ from src.config import (
     RAW_KNOWLEDGE_PATH,
     VECTOR_STORE_DIR,
 )
-from src.embeddings import embed_texts, load_model
-from src.vector_store import build_index
+from embeddings import embed_texts, load_model
+from vector_store import build_index
 
 
 def parse_args() -> argparse.Namespace:

@@ -10,8 +10,8 @@ SRC_DIR = PROJECT_ROOT / "src"
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
-from src.chatbot import MedicalChatbot
-from src.config import EXIT_COMMANDS, WELCOME_MESSAGE
+from chatbot import MedicalChatbot
+from config import EXIT_COMMANDS, WELCOME_MESSAGE
 
 
 def main() -> None:

@@ -1,4 +1,4 @@
-"""CLI entry point for A++++ Day 4 -- Full RAG chatbot."""
+"""CLI entry point for A++++ version 4 -- Full RAG chatbot."""
 
 from __future__ import annotations
 
@@ -10,8 +10,8 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from app.config import EXIT_COMMANDS, LLM_PROVIDER, WELCOME_MESSAGE
-from app.rag.pipeline import RAGPipeline
-from app.rag.vector_store import index_exists
+from app.pipeline import RAGPipeline
+from app.vector_store import index_exists
 
 
 def print_response(response) -> None:

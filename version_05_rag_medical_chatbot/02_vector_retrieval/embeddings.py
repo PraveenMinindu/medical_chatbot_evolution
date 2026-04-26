@@ -22,7 +22,7 @@ from __future__ import annotations
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-from .config import EMBEDDING_MODEL_NAME
+from config import EMBEDDING_MODEL_NAME
 
 
 def load_model() -> SentenceTransformer:

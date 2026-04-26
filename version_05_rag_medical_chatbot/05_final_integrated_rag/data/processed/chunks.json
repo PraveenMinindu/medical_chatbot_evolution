@@ -1,0 +1,416 @@
+[
+  {
+    "chunk_id": "fever-chunk-000",
+    "text": "Fever is a temporary rise in body temperature above the normal range. Normal body temperature is approximately 37 degrees Celsius or 98.6 degrees Fahrenheit. A temperature above 38 degrees Celsius is generally considered a fever in adults.\n\nFever is not a disease on its own. It is a symptom -- a signal that the body is responding to something, most commonly an infection caused by bacteria or",
+    "topic": "fever",
+    "source_file": "medical_knowledge.md",
+    "char_start": 0,
+    "char_end": 395,
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "fever-chunk-001",
+    "text": "dy is responding to something, most commonly an infection caused by bacteria or viruses. The immune system raises body temperature deliberately because many pathogens cannot survive in a hotter environment. In this way, fever is part of the body's natural defence mechanism.\n\nCommon causes of fever include viral infections such as the common cold or influenza, bacterial infections, inflammatory",
+    "topic": "fever",
+    "source_file": "medical_knowledge.md",
+    "char_start": 315,
+    "char_end": 712,
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "fever-chunk-002",
+    "text": "ctions such as the common cold or influenza, bacterial infections, inflammatory conditions, and the body's immune response following illness. In most healthy adults, mild fever resolves on its own within a few days.\n\nCommon signs of fever include feeling warm or hot to the touch, sweating, chills, shivering, tiredness, body aches, headache, and loss of appetite.",
+    "topic": "fever",
+    "source_file": "medical_knowledge.md",
+    "char_start": 632,
+    "char_end": 997,
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "fever-chunk-003",
+    "text": "ting, chills, shivering, tiredness, body aches, headache, and loss of appetite. Some people also experience a flushed face and sensitivity to light.\n\nFever and dehydration are closely linked. When the body temperature rises, fluid is lost through sweating. This means a person with fever is at risk of becoming dehydrated if they do not replace lost fluids.",
+    "topic": "fever",
+    "source_file": "medical_knowledge.md",
+    "char_start": 917,
+    "char_end": 1275,
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "fever-chunk-004",
+    "text": "ith fever is at risk of becoming dehydrated if they do not replace lost fluids. Staying hydrated is especially important during a fever.\n\nThis chatbot provides general educational information about fever only. It does not diagnose fever, recommend any medication, or advise on treatment. Please consult a qualified healthcare professional for personal medical advice.\n\n---",
+    "topic": "fever",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1195,
+    "char_end": 1567,
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "headache-chunk-000",
+    "text": "A headache is pain or discomfort felt in the head, scalp, or neck region. Headaches are among the most common health complaints worldwide and vary widely in type, intensity, and duration.\n\nTension headaches are the most common type. They are characterised by a dull, aching sensation, often described as a tight band or pressure around the head.",
+    "topic": "headache",
+    "source_file": "medical_knowledge.md",
+    "char_start": 0,
+    "char_end": 346,
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "headache-chunk-001",
+    "text": "aching sensation, often described as a tight band or pressure around the head. Tension headaches are commonly triggered by stress, poor posture, eye strain, lack of sleep, or muscle tightness in the neck and shoulders.\n\nMigraines are a more intense type of headache, often affecting one side of the head with a throbbing or pulsating sensation.",
+    "topic": "headache",
+    "source_file": "medical_knowledge.md",
+    "char_start": 266,
+    "char_end": 612,
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "headache-chunk-002",
+    "text": ", often affecting one side of the head with a throbbing or pulsating sensation. Migraines can be accompanied by nausea, vomiting, and sensitivity to light and sound. They may last from a few hours to several days. Migraines are thought to involve changes in brain chemistry and blood flow, and they can be triggered by hormonal changes, certain foods, bright lights, or stress.\n\nDehydration is a",
+    "topic": "headache",
+    "source_file": "medical_knowledge.md",
+    "char_start": 532,
+    "char_end": 928,
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "headache-chunk-003",
+    "text": "by hormonal changes, certain foods, bright lights, or stress.\n\nDehydration is a well-known trigger for headaches. When the body does not have enough fluid, brain tissue can temporarily reduce in volume, pulling slightly away from the skull. This causes pain that is typically felt all over the head and often improves after drinking water.\n\nOther common causes of headache include illness such as a",
+    "topic": "headache",
+    "source_file": "medical_knowledge.md",
+    "char_start": 848,
+    "char_end": 1247,
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "headache-chunk-004",
+    "text": "fter drinking water.\n\nOther common causes of headache include illness such as a cold or fever, sinus congestion, eye strain from screens, caffeine withdrawal, and poor posture. Headaches can also occur as a side effect of fatigue.\n\nThe location and character of a headache can give useful clues about its cause. Pain at the front of the head often relates to sinus congestion or eye strain.",
+    "topic": "headache",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1167,
+    "char_end": 1558,
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "headache-chunk-005",
+    "text": "Pain at the front of the head often relates to sinus congestion or eye strain. Pain at the back of the head and neck may relate to tension or poor posture. Pain on one side is more typical of a migraine.\n\nThis chatbot provides general educational information about headaches only. It does not diagnose the type or cause of a headache and does not recommend any medication or treatment.",
+    "topic": "headache",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1478,
+    "char_end": 1865,
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "headache-chunk-006",
+    "text": "type or cause of a headache and does not recommend any medication or treatment. Please consult a qualified healthcare professional for personal medical advice.\n\n---",
+    "topic": "headache",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1785,
+    "char_end": 1949,
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "cough-chunk-000",
+    "text": "A cough is a reflex action that clears the throat and airways of mucus, irritants, fluids, or foreign particles. It is one of the most common reasons people seek health information. Coughing is the body's protective mechanism for keeping the respiratory tract clear.\n\nThere are two main types of cough. A dry cough does not produce mucus. It often feels tickly or scratchy and may be caused by",
+    "topic": "cough",
+    "source_file": "medical_knowledge.md",
+    "char_start": 0,
+    "char_end": 394,
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "cough-chunk-001",
+    "text": "does not produce mucus. It often feels tickly or scratchy and may be caused by throat irritation, viral infection, dry air, or allergies. A productive cough, also called a wet or chesty cough, brings up mucus or phlegm from the airways. This type of cough is common during colds, chest infections, or respiratory illness.\n\nThe common cold is one of the most frequent causes of coughing.",
+    "topic": "cough",
+    "source_file": "medical_knowledge.md",
+    "char_start": 314,
+    "char_end": 702,
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "cough-chunk-002",
+    "text": "atory illness.\n\nThe common cold is one of the most frequent causes of coughing. When a cold virus infects the nose and throat, it produces inflammation and excess mucus. This mucus can drip down the back of the throat, a phenomenon called post-nasal drip, which triggers the cough reflex. Coughing associated with a cold typically begins a few days into the illness and may persist for one to two",
+    "topic": "cough",
+    "source_file": "medical_knowledge.md",
+    "char_start": 622,
+    "char_end": 1019,
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "cough-chunk-003",
+    "text": "old typically begins a few days into the illness and may persist for one to two weeks even after other symptoms improve.\n\nOther common causes of cough include throat irritation from dry air or environmental pollutants, allergies causing inflammation in the airways, and acid reflux where stomach acid irritates the throat. In each of these cases the cough reflex is responding to irritation or the",
+    "topic": "cough",
+    "source_file": "medical_knowledge.md",
+    "char_start": 939,
+    "char_end": 1337,
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "cough-chunk-004",
+    "text": "oat. In each of these cases the cough reflex is responding to irritation or the need to clear the airway.\n\nCoughing that persists for many weeks or that is accompanied by blood, severe shortness of breath, or high fever is outside the scope of this educational resource. This chatbot provides general educational information about cough only.",
+    "topic": "cough",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1257,
+    "char_end": 1600,
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "cough-chunk-005",
+    "text": "source. This chatbot provides general educational information about cough only. Please consult a qualified healthcare professional for personal medical advice.\n\n---",
+    "topic": "cough",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1520,
+    "char_end": 1684,
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "common_cold-chunk-000",
+    "text": "The common cold is a viral infection that primarily affects the upper respiratory tract, which includes the nose, throat, and sinuses. It is caused by many different viruses, with rhinoviruses being responsible for approximately half of all cases. A cold is one of the most frequent illnesses and most adults experience two to four colds per year.\n\nCold symptoms develop gradually, typically",
+    "topic": "common_cold",
+    "source_file": "medical_knowledge.md",
+    "char_start": 0,
+    "char_end": 392,
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "common_cold-chunk-001",
+    "text": "erience two to four colds per year.\n\nCold symptoms develop gradually, typically beginning within one to three days after exposure to the virus. Early symptoms often include a sore or scratchy throat, followed by a runny or blocked nose, sneezing, and a mild headache. As the cold progresses, nasal discharge may thicken and change colour. A cough may develop, caused by post-nasal drip or throat",
+    "topic": "common_cold",
+    "source_file": "medical_knowledge.md",
+    "char_start": 312,
+    "char_end": 708,
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "common_cold-chunk-002",
+    "text": "ken and change colour. A cough may develop, caused by post-nasal drip or throat irritation. Mild fatigue and a slight temperature are also common.\n\nColds spread through tiny respiratory droplets released when an infected person coughs, sneezes, or talks. The virus can also spread by touching a contaminated surface and then touching the eyes, nose, or mouth.",
+    "topic": "common_cold",
+    "source_file": "medical_knowledge.md",
+    "char_start": 628,
+    "char_end": 988,
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "common_cold-chunk-003",
+    "text": "by touching a contaminated surface and then touching the eyes, nose, or mouth. This is why hand hygiene is considered important in reducing the spread of colds.\n\nA cold typically lasts between seven and ten days in healthy adults. The first two to three days tend to be the most symptomatic. A cough may persist for one to two weeks after other symptoms have resolved.",
+    "topic": "common_cold",
+    "source_file": "medical_knowledge.md",
+    "char_start": 908,
+    "char_end": 1278,
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "common_cold-chunk-004",
+    "text": "c. A cough may persist for one to two weeks after other symptoms have resolved. Children tend to have more frequent colds than adults because their immune systems are still developing.\n\nCold symptoms can overlap with those of influenza, which is commonly called the flu. A cold is generally milder than flu. Flu tends to come on suddenly and causes a higher fever, more severe body aches, and",
+    "topic": "common_cold",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1198,
+    "char_end": 1591,
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "common_cold-chunk-005",
+    "text": "ends to come on suddenly and causes a higher fever, more severe body aches, and greater overall tiredness than a cold. A cold mainly affects the nose and throat.\n\nThis chatbot provides general educational information about the common cold only. It does not diagnose the cause of respiratory symptoms or recommend any medication. Please consult a qualified healthcare professional for personal",
+    "topic": "common_cold",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1511,
+    "char_end": 1904,
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "common_cold-chunk-006",
+    "text": "any medication. Please consult a qualified healthcare professional for personal medical advice.\n\n---",
+    "topic": "common_cold",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1824,
+    "char_end": 1924,
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "dehydration-chunk-000",
+    "text": "Dehydration occurs when the body loses more fluid than it takes in, leaving insufficient water to carry out normal bodily functions. Water is essential for regulating body temperature, transporting nutrients, removing waste, and supporting the function of organs and tissues. Even mild dehydration can affect how a person feels and performs.\n\nThe human body loses water continuously through",
+    "topic": "dehydration",
+    "source_file": "medical_knowledge.md",
+    "char_start": 0,
+    "char_end": 391,
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "dehydration-chunk-001",
+    "text": "w a person feels and performs.\n\nThe human body loses water continuously through breathing, sweating, urination, and bowel movements. Under normal conditions, fluid intake from drinking and eating replaces these losses. Dehydration occurs when this balance is disrupted.\n\nCommon causes of dehydration include not drinking enough water throughout the day, excessive sweating during exercise or in hot",
+    "topic": "dehydration",
+    "source_file": "medical_knowledge.md",
+    "char_start": 311,
+    "char_end": 710,
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "dehydration-chunk-002",
+    "text": "g enough water throughout the day, excessive sweating during exercise or in hot weather, fever which increases fluid loss through sweating, vomiting and diarrhoea which cause rapid fluid loss, and illnesses that reduce the desire to eat or drink.\n\nEarly signs of dehydration include thirst, dry mouth, slightly darker urine, mild tiredness, and reduced frequency of urination.",
+    "topic": "dehydration",
+    "source_file": "medical_knowledge.md",
+    "char_start": 630,
+    "char_end": 1007,
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "dehydration-chunk-003",
+    "text": "uth, slightly darker urine, mild tiredness, and reduced frequency of urination. These are the body's signals that fluid intake needs to increase.\n\nAs dehydration progresses, symptoms can include headache, dizziness, lightheadedness, reduced concentration, dry skin, and dark yellow or amber-coloured urine. Feeling dizzy when standing up quickly can also be a sign that fluid levels are lower than",
+    "topic": "dehydration",
+    "source_file": "medical_knowledge.md",
+    "char_start": 927,
+    "char_end": 1325,
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "dehydration-chunk-004",
+    "text": "zy when standing up quickly can also be a sign that fluid levels are lower than they should be.\n\nHeadache is a particularly common symptom of dehydration. When the body is short of fluid, brain tissue can temporarily reduce in size, pulling away slightly from the skull and causing pain. Drinking water often relieves a dehydration headache within thirty minutes to an hour.\n\nFever and dehydration",
+    "topic": "dehydration",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1245,
+    "char_end": 1643,
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "dehydration-chunk-005",
+    "text": "a dehydration headache within thirty minutes to an hour.\n\nFever and dehydration frequently occur together. A person with fever sweats more to try to cool the body, which accelerates fluid loss. Replacing fluids during a fever is important to prevent the additional complication of dehydration.\n\nThis chatbot provides general educational information about dehydration only.",
+    "topic": "dehydration",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1563,
+    "char_end": 1936,
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "dehydration-chunk-006",
+    "text": "This chatbot provides general educational information about dehydration only. It does not diagnose the severity of dehydration or recommend any specific intervention. Please consult a qualified healthcare professional for personal medical advice.\n\n---",
+    "topic": "dehydration",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1856,
+    "char_end": 2109,
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "prevention_and_general_wellness-chunk-000",
+    "text": "Many common illnesses such as colds, headaches, and dehydration can be reduced in frequency and severity through general wellness habits. These are not medical recommendations but widely recognised general health principles.\n\nHand hygiene is one of the most effective measures for reducing the spread of cold viruses and many other infections.",
+    "topic": "prevention_and_general_wellness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 0,
+    "char_end": 344,
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "prevention_and_general_wellness-chunk-001",
+    "text": "ive measures for reducing the spread of cold viruses and many other infections. Washing hands with soap and water before eating, after blowing the nose, and after contact with frequently touched surfaces significantly reduces the risk of viral transmission.\n\nAdequate hydration supports many aspects of health. Drinking enough water throughout the day helps prevent dehydration headaches, supports",
+    "topic": "prevention_and_general_wellness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 264,
+    "char_end": 662,
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "prevention_and_general_wellness-chunk-002",
+    "text": "g enough water throughout the day helps prevent dehydration headaches, supports the body's ability to regulate temperature during illness, and assists the immune system in functioning well. The amount of water a person needs varies depending on body size, activity level, and climate.\n\nRest and sleep are important when the body is fighting an illness.",
+    "topic": "prevention_and_general_wellness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 582,
+    "char_end": 935,
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "prevention_and_general_wellness-chunk-003",
+    "text": "nd climate.\n\nRest and sleep are important when the body is fighting an illness. The immune system performs many of its functions during sleep, including producing proteins that help fight infections. Continuing normal activity levels during an illness can slow recovery.\n\nAvoiding direct contact with people who have cold symptoms reduces the risk of transmission.",
+    "topic": "prevention_and_general_wellness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 855,
+    "char_end": 1220,
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "prevention_and_general_wellness-chunk-004",
+    "text": "ct contact with people who have cold symptoms reduces the risk of transmission. The cold virus spreads through droplets and contact, so maintaining distance and avoiding touching the face after contact with shared surfaces reduces exposure.\n\nGood nutrition supports the immune system. A diet with sufficient vitamins and minerals helps the body defend against infection and recover from illness.",
+    "topic": "prevention_and_general_wellness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1140,
+    "char_end": 1536,
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "prevention_and_general_wellness-chunk-005",
+    "text": "and minerals helps the body defend against infection and recover from illness. No single food prevents illness, but a varied diet supports overall health.\n\nStaying warm and avoiding sudden changes in temperature does not directly prevent colds, which are caused by viruses, but it does support general comfort during cold weather months when respiratory illnesses are more common.\n\n---",
+    "topic": "prevention_and_general_wellness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 1456,
+    "char_end": 1842,
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "warning_signs-chunk-000",
+    "text": "This educational document covers mild and common symptoms only. The following situations are outside the scope of this educational resource and require professional medical attention.\n\nA very high fever, particularly above 39.5 degrees Celsius in adults, that does not come down or that is accompanied by severe symptoms such as stiff neck, confusion, difficulty breathing, or a rash may indicate a",
+    "topic": "warning_signs",
+    "source_file": "medical_knowledge.md",
+    "char_start": 0,
+    "char_end": 399,
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "warning_signs-chunk-001",
+    "text": "s such as stiff neck, confusion, difficulty breathing, or a rash may indicate a serious condition.\n\nA headache that is sudden and extremely severe, sometimes described as the worst headache of one's life, or a headache accompanied by fever, stiff neck, visual disturbances, or loss of consciousness may indicate a serious condition requiring immediate attention.\n\nA cough accompanied by coughing up",
+    "topic": "warning_signs",
+    "source_file": "medical_knowledge.md",
+    "char_start": 319,
+    "char_end": 718,
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "warning_signs-chunk-002",
+    "text": "us condition requiring immediate attention.\n\nA cough accompanied by coughing up blood, severe chest pain, difficulty breathing at rest, or a high fever that does not resolve may indicate a more serious respiratory condition.\n\nSevere dehydration, which may present as extreme dizziness, very dark or absent urine, rapid heartbeat, confusion, or inability to keep fluids down, requires prompt medical",
+    "topic": "warning_signs",
+    "source_file": "medical_knowledge.md",
+    "char_start": 638,
+    "char_end": 1037,
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "warning_signs-chunk-003",
+    "text": "heartbeat, confusion, or inability to keep fluids down, requires prompt medical attention.\n\nAny symptom that is severe, worsening rapidly, or causing significant concern should be evaluated by a qualified healthcare professional. This chatbot does not provide emergency guidance or personal medical advice.\n\n---",
+    "topic": "warning_signs",
+    "source_file": "medical_knowledge.md",
+    "char_start": 957,
+    "char_end": 1268,
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "hydration_and_rest_during_illness-chunk-000",
+    "text": "When experiencing any of the common illnesses covered in this resource -- fever, headache, cold, cough, or dehydration -- adequate fluid intake and rest are generally considered important for recovery.\n\nFluids help the body manage fever by supporting sweating and temperature regulation. Fluids also thin mucus in the airways, which can make coughing more productive and relieve congestion.",
+    "topic": "hydration_and_rest_during_illness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 0,
+    "char_end": 391,
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "hydration_and_rest_during_illness-chunk-001",
+    "text": "in the airways, which can make coughing more productive and relieve congestion. During a cold, the nose and airways lose more fluid than usual, increasing the need for hydration.\n\nRest allows the immune system to dedicate energy to fighting infection. Physical activity during illness can redirect blood flow and energy away from immune function, potentially prolonging recovery.\n\nSleep is",
+    "topic": "hydration_and_rest_during_illness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 311,
+    "char_end": 701,
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "hydration_and_rest_during_illness-chunk-002",
+    "text": "nd energy away from immune function, potentially prolonging recovery.\n\nSleep is particularly important during illness. The body performs much of its immune activity during sleep, including the production of cytokines, which are proteins that help regulate the immune response to infection.\n\nWarm fluids such as warm water or broth are often comfortable to drink during illness and may provide",
+    "topic": "hydration_and_rest_during_illness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 621,
+    "char_end": 1014,
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "hydration_and_rest_during_illness-chunk-003",
+    "text": "rm water or broth are often comfortable to drink during illness and may provide temporary relief from sore throat and congestion. This is a comfort measure, not a medical treatment.\n\nThis chatbot provides general educational wellness information only. All personal health decisions should be made in consultation with a qualified healthcare professional.",
+    "topic": "hydration_and_rest_during_illness",
+    "source_file": "medical_knowledge.md",
+    "char_start": 934,
+    "char_end": 1288,
+    "chunk_index": 3
+  }
+]

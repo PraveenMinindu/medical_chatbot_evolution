@@ -7,8 +7,8 @@ The retrieval logic is unchanged from Day 3.
 from __future__ import annotations
 
 from app.config import SIMILARITY_THRESHOLD, TOP_K
-from app.rag.embeddings import embed_query, load_model
-from app.rag.vector_store import index_exists, load_index, search
+from app.embeddings import embed_query, load_model
+from app.vector_store import index_exists, load_index, search
 from app.schemas import RetrievalResult, RetrievedChunk
 
 

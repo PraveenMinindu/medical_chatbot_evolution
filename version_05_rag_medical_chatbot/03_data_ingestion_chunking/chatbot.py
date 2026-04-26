@@ -10,9 +10,9 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 
-from .config import FALLBACK_MESSAGE, RESTRICTED_KEYWORDS, SAFETY_MESSAGE
-from .retrieval import KnowledgeRetriever, RetrievedChunk
-from .utils import contains_restricted_keywords
+from config import FALLBACK_MESSAGE, RESTRICTED_KEYWORDS, SAFETY_MESSAGE
+from retrieval import KnowledgeRetriever, RetrievedChunk
+from utils import contains_restricted_keywords
 
 
 @dataclass

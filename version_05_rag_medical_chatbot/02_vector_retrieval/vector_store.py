@@ -43,7 +43,7 @@ import json
 import faiss
 import numpy as np
 
-from .config import (
+from config import (
     EMBEDDING_DIMENSION,
     FAISS_INDEX_PATH,
     METADATA_PATH,

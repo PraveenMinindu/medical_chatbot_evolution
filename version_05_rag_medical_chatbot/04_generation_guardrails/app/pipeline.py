@@ -42,9 +42,9 @@ HOW HALLUCINATION IS REDUCED:
 from __future__ import annotations
 
 from app.config import FALLBACK_MESSAGE, INSUFFICIENT_CONTEXT_MESSAGE
-from app.llm.generator import generate
-from app.rag.prompt_builder import build_prompt
-from app.rag.retrieval import KnowledgeRetriever
+from app.generator import generate
+from app.prompt_builder import build_prompt
+from app.retrieval import KnowledgeRetriever
 from app.safety.guardrails import check_input, scan_output
 from app.schemas import GenerationResult, RAGResponse
 

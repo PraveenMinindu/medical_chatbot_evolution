@@ -4,13 +4,13 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-from .config import (
+from config import(
     FALLBACK_MESSAGE,
     RESTRICTED_KEYWORDS,
     SAFETY_MESSAGE,
 )
-from .retrieval import KnowledgeRetriever, RetrievalResult
-from .utils import contains_restricted_keywords
+from retrieval import KnowledgeRetriever, RetrievalResult
+from utils import contains_restricted_keywords
 
 
 @dataclass

@@ -15,17 +15,19 @@ Day 3 change from Day 2:
            ALL above-threshold chunks as context for the future LLM.
            The LLM needs the full context, not just the single best match.
 """
-
 from __future__ import annotations
 
+import sys
+import os
 from dataclasses import dataclass, field
 
-from .config import (
+
+from config import (
     SIMILARITY_THRESHOLD,
     TOP_K,
 )
-from .embeddings import embed_query, load_model
-from .vector_store import index_exists, load_index, search
+from embeddings import embed_query, load_model
+from vector_store import index_exists, load_index, search
 
 
 @dataclass

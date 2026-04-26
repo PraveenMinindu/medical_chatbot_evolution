@@ -16,9 +16,9 @@ from app.config import (
     CHUNK_OVERLAP, CHUNK_SIZE, CHUNKS_PATH, EMBEDDING_MODEL_NAME,
     FAISS_INDEX_PATH, METADATA_PATH, RAW_KNOWLEDGE_PATH,
 )
-from app.rag.chunking import Chunk, build_chunks
-from app.rag.embeddings import embed_texts, load_model
-from app.rag.vector_store import build_index
+from app.chunking import Chunk, build_chunks
+from app.embeddings import embed_texts, load_model
+from app.vector_store import build_index
 
 
 def parse_args() -> argparse.Namespace:
